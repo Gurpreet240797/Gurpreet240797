@@ -1,6 +1,6 @@
 - 👋 I'm Gurpreet Singh.  
 - 🔭 I’m interested in Software Development
-- 🌱 I’m currently learning about Computer Networks and Image Processing.
+- 🌱 I’m currently learning about Next.js and GraphQL.
 - 💬 I’m looking to collaborate on Full Stack projects.
 - 📫 How to reach me: gurpreet24277@gmail.com
 - 🌐 Portfolio: https://gpsingh.netlify.app/#/
