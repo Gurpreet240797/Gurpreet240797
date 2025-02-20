@@ -4,4 +4,4 @@
 - 💬 I’m looking to collaborate on Full Stack projects.
 - 📫 How to reach me: gurpreet24277@gmail.com
 - 🌐 Portfolio: https://gpsingh.netlify.app/#/
-- 📎 LinkedIn: https://www.linkedin.com/in/g-singh-/
+- 📎 LinkedIn: [https://www.linkedin.com/in/g-singh-/](https://www.linkedin.com/in/gp-singh-/)
